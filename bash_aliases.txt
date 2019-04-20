@@ -14,3 +14,4 @@ alias gm='git commit -m' #Git message
 alias gam='git commit -a -m' #Git update
 alias pushom='git push origin master'
 alias pullom='git pull origin master'
+alias gs='git status' 
