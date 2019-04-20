@@ -1,0 +1,16 @@
+#Basics commands aliases
+
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+
+
+#Git aliases 
+
+alias gm='git commit -m' #Git message
+alias gam='git commit -a -m' #Git update
+alias pushom='git push origin master'
+alias pullom='git pull origin master'
