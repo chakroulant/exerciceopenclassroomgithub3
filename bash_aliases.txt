@@ -11,7 +11,8 @@ alias ....='cd ../../..'
 #Git aliases 
 
 alias gm='git commit -m' #Git message
-alias gam='git commit -a -m' #Git update
+alias gam='git commit -a -m' #Git updating file+message
 alias pushom='git push origin master'
 alias pullom='git pull origin master'
-alias gs='git status' 
+alias gst='git status' 
+alias gi='git init'
